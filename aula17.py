@@ -1,6 +1,6 @@
 condicao1 = False
 condicao2 = False
-condicao3 = False
+condicao3 = True
 condicao4 = False
 
 if condicao1:
@@ -14,5 +14,3 @@ elif condicao4:
     print("Condição 4")
 else:
     print("Nemhuma condição é verdadeira")
-
-print("Fim do Teste")
