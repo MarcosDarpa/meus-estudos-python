@@ -1,4 +1,4 @@
-condicao1 = True
+condicao1 = False
 condicao2 = False
 condicao3 = False
 condicao4 = False
