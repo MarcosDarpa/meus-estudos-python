@@ -14,3 +14,5 @@ elif condicao4:
     print("Condição 4")
 else:
     print("Nemhuma condição é verdadeira")
+
+print("Fim do Teste")
